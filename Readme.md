@@ -31,6 +31,17 @@ Thank you :D
 |2022|Dacon Computer Vision 이상치 탐지 알고리즘 경진대회|상위 5%|
 |2022|한국차세대컴퓨팅학회 학회논문 |Ahnlab상(우수상)|
 
+
+# Certificate
+| Year |  Certificate name |
+|---|---|
+|2005|정보처리기능사|
+|2019|SQLD(SQL개발자)|
+|2020|ADSP(데이터분석준전문가)|
+|2021|빅데이터분석기사|
+|2022|정보처리기사|
+
+
 # Tech Stack 
 ## Tech Stack
 ### Tech Stack
