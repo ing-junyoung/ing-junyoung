@@ -42,6 +42,12 @@ Thank you :D
 |2022|국가자격 정보처리기사|한국산업인력공단|
 
 
+# Career
+| Year | Period |  Company | Role | Detail |
+|---|---|---|---|---|
+|2020|6 months|Wecruit|Researcher(Internship)||
+|2022|8 months|Arontier|Researcher||
+
 # Tech Stack 
 ## Tech Stack
 ### Tech Stack
