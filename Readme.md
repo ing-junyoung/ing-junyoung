@@ -22,7 +22,7 @@ Thank you :D
 
 # Challenge
 
-| Year |  Challenge name | Awards  |
+| Year |  Challenge name | Host | Awards  |
 |---|---|---|
 |2019|창원시 빅데이터 공모전 기획 부문|장려상|
 |2020|Samsung SDS Brightics AI Supporters|홍보상|
