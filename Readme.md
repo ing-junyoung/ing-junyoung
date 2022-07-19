@@ -13,7 +13,7 @@
 <br>
 <br>
 Hi👋, I am interested in modeling and optimization of machine learning and deep learning.<br>
-And, I want to find meaning that can't be seen with the naked eye from the data and actually service it. <br>
+And, I want to find meaning that can't be seen with the naked eye from data and actually service it. <br>
 So, I’m currently majoring in data science and in a master's course.<br>
 
 📣 This place will share what I personally studied and the projects I worked on.
@@ -48,9 +48,3 @@ Thank you :D
 |---|---|---|---|---|
 |2020|6 months|Wecruit|Researcher(Internship)|Data Analysis & Marketing|
 |2022|6 months|Arontier|Researcher|AI Molecular Design Team|
-
-# Tech Stack 
-## Tech Stack
-### Tech Stack
-#### Tech Stack
-##### Tech Stack
