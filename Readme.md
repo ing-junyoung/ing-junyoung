@@ -46,8 +46,8 @@ Thank you :D
 # Career
 | Year | Period |  Company | Role | Detail |
 |---|---|---|---|---|
-|2020|6 months|Wecruit|Researcher(Internship)||
-|2022|8 months|Arontier|Researcher||
+|2020|6 months|Wecruit|Researcher(Internship)|Data Analysis & Marketing|
+|2022|8 months|Arontier|Researcher| AI Molecular Design Team|
 
 # Tech Stack 
 ## Tech Stack
