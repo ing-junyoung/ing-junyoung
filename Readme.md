@@ -28,9 +28,10 @@ Thank you :D
 |2020|Samsung SDS Brightics AI Supporters|Samsung SDS|홍보상|
 |2021|의료데이터(체부암)를 활용한 AI 해커톤|고신대학교병원|우수상|
 |2021|한국데이터정보과학회 추계학술대회 포스터논문 |한국데이터정보과학회|장려상|
-|2022|Dacon Computer Vision 이상치 탐지 알고리즘 경진대회|Dacon|상위 5%(24등/481팀(1147명)|
+|2022|Dacon Computer Vision 이상치 탐지 알고리즘 경진대회|Dacon|상위 5% (24등/487팀)|
 |2022|한국차세대컴퓨팅학회 춘계학술대회 학회논문(Oral Session) |한국차세대컴퓨팅학회|Ahnlab상(우수상)|
 |2022|Dacon 따릉이 대여량 예측 AI 경진대회 |Dacon|최우수상(1등)|
+|2022|Dacon 신용카드 사기 거래 탐지 AI 경진대회 |Dacon|진행중|
 
 
 # Certificate
