@@ -31,7 +31,7 @@ Thank you :D
 |2022|Dacon Computer Vision 이상치 탐지 알고리즘 경진대회|Dacon|상위 5% (24등/487팀)|
 |2022|한국차세대컴퓨팅학회 춘계학술대회 학회논문(Oral Session) |한국차세대컴퓨팅학회|Ahnlab상(우수상)|
 |2022|Dacon 따릉이 대여량 예측 AI 경진대회 |Dacon|최우수상(1등)|
-|2022|Dacon 신용카드 사기 거래 탐지 AI 경진대회 |Dacon|진행중|
+|2022|Dacon 신용카드 사기 거래 탐지 AI 경진대회 |Dacon|수상(4등/747팀)|
 
 
 # Certificate
