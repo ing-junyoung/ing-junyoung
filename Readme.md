@@ -32,7 +32,7 @@ Thank you :D
 |2022|한국차세대컴퓨팅학회 춘계학술대회 학회논문(Oral Session) |한국차세대컴퓨팅학회|Ahnlab상(우수상)|
 |2022|따릉이 대여량 예측 AI 경진대회 |Dacon|최우수상(1등)|
 |2022|신용카드 사기 거래 탐지 AI 경진대회 |Dacon|수상(3등/747팀)|
-|2022|LG화학 입자형태 분석 모델 개발 해커톤(Segmentation) |LG화학|상위3% (6등/176명)|
+|2022|LG화학 입자형태 분석 모델 개발 해커톤(Segmentation) |LG화학|6등/176명|
 |2022|SAMSUNG AI Challenge (Materials Discovery) |삼성전자 종합기술원|진행 중|
 
 
