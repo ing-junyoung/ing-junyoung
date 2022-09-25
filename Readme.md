@@ -25,13 +25,13 @@ Thank you :D
 | Year |  Challenge name   | Host | Awards  |
 |---|---|---|---|
 |2021|의료데이터(체부암)를 활용한 AI 해커톤|고신대학교병원|우수상|
-|2021|한국데이터정보과학회 추계학술대회 포스터논문 |한국데이터정보과학회|장려상|
-|2022|Computer Vision 이상치 탐지 알고리즘 경진대회|Dacon|24등/487팀|
-|2022|한국차세대컴퓨팅학회 춘계학술대회 학회논문(Oral Session) |한국차세대컴퓨팅학회|Ahnlab상(우수상)|
+|2021|한국데이터정보과학회 추계학술대회 포스터논문|한국데이터정보과학회|장려상|
+|2022|Computer Vision 이상치 탐지 알고리즘 경진대회|Dacon|24등/1202명|
+|2022|한국차세대컴퓨팅학회 춘계학술대회 |한국차세대컴퓨팅학회|Ahnlab상(우수상)|
 |2022|따릉이 대여량 예측 AI 경진대회 |Dacon|최우수상(1등)|
-|2022|신용카드 사기 거래 탐지 AI 경진대회 |Dacon|수상(3등/747팀)|
+|2022|신용카드 사기 거래 탐지 AI 경진대회 |Dacon|입상(3등/747팀)|
 |2022|LG화학 입자형태 분석 모델 개발 해커톤(Segmentation) |LG화학|6등/176명|
-|2022|SAMSUNG AI Challenge (Materials Discovery) |삼성전자 종합기술원|진행 중|
+|2022|SAMSUNG AI Challenge (Materials Discovery) |삼성전자 종합기술원|18등/493명|
 
 
 # Certificate
