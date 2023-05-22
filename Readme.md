@@ -19,7 +19,7 @@
 <br>
 Hi👋, I am interested in modeling and optimization of machine learning and deep learning.<br>
 And, I want to find meaning that can't be seen with the naked eye from data and actually service it. <br>
-So, I’m currently majoring in data science and in a master's course.<br>
+So I'm currently majoring in data science in master's course.<br>
 
 📣 This place will share what I personally studied and the projects I worked on.
 Thank you.
