@@ -60,6 +60,6 @@ Thank you.
 
 # Current
 
-2023.01 ~ | 개인 사업 | 특정 업종의 소매점에서 사용할 수 있는 반자동화 Web을 개발하여 유료 서비스 배포 중| <br>
+2023.01 ~ | 개인 사업 | 특정 업종의 소매점에서 사용할 수 있는 반자동화 Web을 개발하여 유료 서비스 배포 중 | <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        (現 200 여개 소매점에서 사용 중)
 
