@@ -56,3 +56,9 @@ Thank you.
 |---|---|---|---|---|
 |2020|6 months|Wecruit|Researcher(Internship)|Data Analysis & Marketing|
 |2022|6 months|Arontier|Researcher|AI Molecular Design Team|
+
+
+# Current
+
+2023.01 ~ |개인 사업| 특정 업종의 소매점에서 사용할 수 있는 반자동화 Web을 개발하여 유료 서비스 배포 중 (現 200 여개 소매점에서 사용 중)|
+
