@@ -30,7 +30,7 @@ Thank you.
 | Year |  Challenge name   | Host | Awards  |
 |---|---|---|---|
 |2019|창원 빅데이터 공모전(기획 부문)|창원시청|장려상|
-|2020|Brightics AI Supporters|삼성 SDS|활동 우수상|
+|2020|Brightics AI Supporters|삼성 SDS|홍보상|
 |2021|의료데이터(체부암)를 활용한 AI 해커톤|고신대학교병원|우수상|
 |2021|한국데이터정보과학회 추계학술대회 포스터논문|한국데이터정보과학회|장려상|
 |2022|Computer Vision 이상치 탐지 알고리즘 경진대회|Dacon|24등/1202명|
