@@ -43,9 +43,10 @@ Thank you.
 
 # Paper 
 
-| Year |  Title | Contribution |
-|---|---|---|
-
+| Year |  Title | Contribution | Reference |
+|---|---|---|---|
+|2022|퍼미션 정보를 이용한 딥 러닝 기반 안드로이드 악성 앱 패밀리 분류|First Author|KCI|
+|2023|Improving the Sustainability of Android Malware Detection for Continual Learning|First Author|SCI(E)|
 
 # Certificate
 | Year |  Certificate name | Issuer | 
