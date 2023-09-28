@@ -41,6 +41,12 @@ Thank you.
 |2022|SAMSUNG AI Challenge (Materials Discovery) |삼성전자 종합기술원|18등/493명|
 
 
+# Paper 
+
+| Year |  Title | Contribution |
+|---|---|---|
+
+
 # Certificate
 | Year |  Certificate name | Issuer | 
 |---|---|---|
