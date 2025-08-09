@@ -61,8 +61,8 @@ Thank you.
 |---|---|---|---|---|
 |2020.03 ~ 08|6 months|Wecruit|Researcher(Internship)|Data Analysis & Marketing|
 |2022.01 ~ 06|6 months|Arontier|Researcher|AI Molecular Design Team|
-|2023.01 ~ 08|8 months|self-employment|self-employment| <br>
+|2023.01 ~ 08|8 months|self-employment|-|-| <br>
 |2024~|-|DB Life Insurance|Junior Staff|Personal Sales Support Team|
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       (現 200 여개 소매점에서 사용 중)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       
 
