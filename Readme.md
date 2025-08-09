@@ -59,12 +59,10 @@ Thank you.
 # Career
 | Year | Period |  Company | Role | Detail |
 |---|---|---|---|---|
-|2020|6 months|Wecruit|Researcher(Internship)|Data Analysis & Marketing|
-|2022|6 months|Arontier|Researcher|AI Molecular Design Team|
+|2020.03 ~ 08|6 months|Wecruit|Researcher(Internship)|Data Analysis & Marketing|
+|2022.01 ~ 06|6 months|Arontier|Researcher|AI Molecular Design Team|
+|2023.01 ~ 08|8 months|self-employment|self-employment| <br>
+|2024~|-|DB Life Insurance|Junior Staff|Personal Sales Support Team|
 
-
-# Current
-
-2023.01 ~ | 개인 사업 | 특정 업종의 소매점에서 사용할 수 있는 반자동화 Web을 개발하여 유료 서비스 배포 중 | <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       (現 200 여개 소매점에서 사용 중)  
 
