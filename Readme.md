@@ -19,7 +19,6 @@
 <br>
 Hi👋, I am interested in modeling and optimization of machine learning and deep learning.<br>
 And, I want to find meaning that can't be seen with the naked eye from data and actually service it. <br>
-So I'm currently majoring in data science in master's course.<br>
 
 📣 This place will share what I personally studied and the projects I worked on.
 Thank you.
@@ -62,7 +61,7 @@ Thank you.
 |2020.03 ~ 08|6 months|Wecruit|Researcher(Internship)|Data Analysis & Marketing|
 |2022.01 ~ 06|6 months|Arontier|Researcher|AI Molecular Design Team|
 |2023.01 ~ 08|8 months|self-employment|-|-| <br>
-|2024~|-|DB Life Insurance|Junior Staff|Personal Sales Support Team|
+|2024.01~|-|DB Life Insurance|Junior Staff|Personal Sales Support Team|
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       
 
